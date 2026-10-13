@@ -1,0 +1,38 @@
+===============================================================
+PANDUAN PRESENTASI SEMINAR LAPORAN AKTUALISASI - SIKAT
+===============================================================
+Penyusun : Aldi Kurniawan, S.T. (NDH 16 / Angkatan LX)
+Instansi : RSUD Talang Ubi Kabupaten PALI
+Format   : Standalone Interactive Neobrutalist Web Deck
+
+---------------------------------------------------------------
+CARA MEMBUKA DI LAPTOP MANA PUN:
+---------------------------------------------------------------
+1. Salin seluruh folder 'presentasi-sikat' ini ke laptop atau flashdisk.
+2. Cukup KLIK DUA KALI berkas 'index.html' menggunakan browser
+   apa saja (Microsoft Edge atau Google Chrome).
+   - ATAU: Klik dua kali 'BUKA_PRESENTASI.bat' untuk langsung
+     membuka Edge dalam mode layar penuh (fullscreen).
+3. Jika membuka index.html biasa, tekan tombol F11 pada keyboard
+   untuk menyembunyikan bilah browser dan menikmati layar penuh.
+
+---------------------------------------------------------------
+TOMBOL KONTROL (KEYBOARD & PRESENTER CLICKER):
+---------------------------------------------------------------
+* Maju Slide / Sub-fase : Spasi, Enter, Panah Kanan, PageDown
+* Mundur Slide          : Panah Kiri, Backspace, PageUp
+* Layar Penuh (Toggle)  : Tombol F atau F11
+* Musik Latar (BGM)     : Tombol M (On / Off)
+* Daftar Semua Slide    : Tombol Tab (bisa lompat langsung ke slide mana saja)
+* Slide Pertama / Akhir : Home / End
+
+---------------------------------------------------------------
+KEUNGGULAN OPSI B INI:
+---------------------------------------------------------------
+* Animasi 100% identik dengan motion video (spring bounce GSAP,
+  stempel banting, indikator kepuasan, slot machine angka, & konsol terminal).
+* Tidak memerlukan internet sama sekali (100% offline).
+* Otomatis menyesuaikan resolusi monitor/proyektor apa pun tanpa
+  pernah terpotong (auto-fit responsive 1920x1080).
+* Dilengkapi pemutar video otomatis untuk cuplikan sosialisasi aktual.
+===============================================================

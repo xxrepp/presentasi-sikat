@@ -1,0 +1,1 @@
+@echo off\nstart msedge --start-fullscreen "%~dp0index.html"\n
